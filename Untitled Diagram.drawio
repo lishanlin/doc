@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-08T10:40:15.534Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="tVWsefr2a8L6mUNmuN-S" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-08T10:51:50.687Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="a23Uli5e8_fFloMGuLiE" version="20.4.0" type="github">
   <diagram id="0dBSCYIOzl0Dh5r4dUYV" name="Page-1">
     <mxGraphModel dx="1122" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="390" y="366" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="190" width="670" height="160" as="geometry" />
+          <mxGeometry x="561" y="190" width="640" height="130" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-12" value="landingpag4" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="447" width="80" height="60" as="geometry" />
@@ -47,22 +47,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-13" value="首页" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="231" width="120" height="80" as="geometry" />
+          <mxGeometry x="581" y="216" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="idBV6mfvMlumSGSyqYpo-14" target="idBV6mfvMlumSGSyqYpo-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-14" value="活动页" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="231" width="120" height="80" as="geometry" />
+          <mxGeometry x="731" y="216" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="idBV6mfvMlumSGSyqYpo-16" target="idBV6mfvMlumSGSyqYpo-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-16" value="单品页" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="877" y="231" width="120" height="80" as="geometry" />
+          <mxGeometry x="888" y="216" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-20" value="下单" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="1043" y="231" width="120" height="80" as="geometry" />
+          <mxGeometry x="1054" y="216" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="394" width="640" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-26" value="新人页" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="581" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-27" value="各种权益弹框" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-28" value="新人活动" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-29" value="新人任务" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-31" value="......" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="439" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
