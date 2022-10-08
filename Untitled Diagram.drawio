@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-08T11:09:12.687Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="FjMrziNtqAWA3BaraDN3" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-08T11:10:15.576Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="pjRN03CnBx9ag4El7Fh9" version="20.4.0" type="github">
   <diagram id="0dBSCYIOzl0Dh5r4dUYV" name="Page-1">
     <mxGraphModel dx="1122" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
         <mxCell id="idBV6mfvMlumSGSyqYpo-27" value="各种权益弹框" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-28" value="新人活动" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="idBV6mfvMlumSGSyqYpo-28" value="新人活动&amp;amp;游戏" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-29" value="新人任务" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
