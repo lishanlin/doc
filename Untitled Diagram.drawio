@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T07:53:10.943Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="rieoRT4Q2sWgMa7MkPzj" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-09T08:02:15.500Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="wVJEYbsJqDK43pTnHATq" version="20.4.0" type="github">
   <diagram id="0dBSCYIOzl0Dh5r4dUYV" name="Page-1">
     <mxGraphModel dx="1122" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,6 +167,39 @@
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-58" value="站内点击流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="555" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="701" y="730" as="sourcePoint" />
+            <mxPoint x="780" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="445.68" y="732.48" as="sourcePoint" />
+            <mxPoint x="510" y="732" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-61" value="数据统一处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="idBV6mfvMlumSGSyqYpo-41" target="idBV6mfvMlumSGSyqYpo-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="650" as="sourcePoint" />
+            <mxPoint x="430" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-68" value="数据管道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="715" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="idBV6mfvMlumSGSyqYpo-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="701" y="730" as="sourcePoint" />
+            <mxPoint x="760" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-71" value="数据模型、指标建设" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
