@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T08:14:51.545Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="QDwhPSMlB4-8giuZUyKw" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T08:15:17.511Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Uzne5Wf_5YEK7GJBaxgz" version="20.4.0" type="github">
   <diagram id="0dBSCYIOzl0Dh5r4dUYV" name="Page-1">
     <mxGraphModel dx="1543" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
         <mxCell id="idBV6mfvMlumSGSyqYpo-103" value="游戏后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="988.75" y="683" width="122" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-104" value="用户动线编排" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="idBV6mfvMlumSGSyqYpo-104" value="新用户动线编排" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="612" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-107" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
