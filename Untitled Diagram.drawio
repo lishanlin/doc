@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T14:17:52.789Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="iw_hk_a6c7qTLqs97AJN" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T14:22:16.818Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ECJPpl5fqp6V5MY3YHti" version="20.4.0" type="github">
   <diagram id="0dBSCYIOzl0Dh5r4dUYV" name="Page-1">
     <mxGraphModel dx="1156" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,10 +184,10 @@
         <mxCell id="idBV6mfvMlumSGSyqYpo-92" value="运营策略中心&lt;br&gt;（诺曼底）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="667" width="50" height="143" as="geometry" />
         </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-95" value="干预用户管理中心&lt;br&gt;（新建设）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="idBV6mfvMlumSGSyqYpo-95" value="权益中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="745.5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-97" value="新人权益&amp;amp;商品中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="idBV6mfvMlumSGSyqYpo-97" value="商品中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="862.5" y="745.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-98" value="新人触点管理中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -254,10 +254,10 @@
           <mxGeometry x="571.73" y="667" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-74" value="聚量系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="697" width="175" height="43" as="geometry" />
+          <mxGeometry x="535" y="697" width="175" height="23" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-132" value="算法策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="752.5" width="85" height="43" as="geometry" />
+          <mxGeometry x="535" y="732.38" width="85" height="28.25" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-133" value="全流程监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="711" y="844.5" width="120" height="40" as="geometry" />
@@ -274,8 +274,14 @@
         <mxCell id="idBV6mfvMlumSGSyqYpo-140" value="触点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="505" y="451" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-146" value="用户识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="752.5" width="85" height="43" as="geometry" />
+        <mxCell id="idBV6mfvMlumSGSyqYpo-146" value="DMP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="773.5" width="85" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-147" value="UMC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="774" width="85" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-148" value="干预用户管理中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="626" y="731.75" width="85" height="29.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
