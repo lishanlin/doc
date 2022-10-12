@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T07:54:23.095Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9caJNsrqx58BsJqvN77B" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T10:08:45.871Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="oVHJmxOeIrFLTmXBA4oR" version="20.4.0" type="github">
   <diagram id="0dBSCYIOzl0Dh5r4dUYV" name="Page-1">
     <mxGraphModel dx="1452" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,8 +178,8 @@
         <mxCell id="idBV6mfvMlumSGSyqYpo-80" value="活动后台&lt;br&gt;（万花筒）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="737.25" y="683" width="112.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-86" value="&lt;span style=&quot;&quot;&gt;新人干预中心&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="390" width="100" height="30" as="geometry" />
+        <mxCell id="idBV6mfvMlumSGSyqYpo-86" value="&lt;span style=&quot;&quot;&gt;付费新人&amp;amp;线下转化中心&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="561" y="393" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-87" value="主站核心流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="565" y="186" width="100" height="30" as="geometry" />
@@ -187,7 +187,7 @@
         <mxCell id="idBV6mfvMlumSGSyqYpo-92" value="运营策略中心&lt;br&gt;（诺曼底）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="667" width="50" height="143" as="geometry" />
         </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-95" value="新人用户中心&lt;br&gt;（新建设）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="idBV6mfvMlumSGSyqYpo-95" value="用户中心&lt;br&gt;（新建设）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="745.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-97" value="新人权益&amp;amp;商品中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
