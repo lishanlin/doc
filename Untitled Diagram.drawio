@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T07:51:20.873Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9I4n1G1_q13KQ1dojY2n" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T07:51:38.189Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="kKCAS0oG6wHrAlbrylLJ" version="20.4.0" type="github">
   <diagram id="0dBSCYIOzl0Dh5r4dUYV" name="Page-1">
     <mxGraphModel dx="1452" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -242,10 +242,10 @@
           <mxGeometry x="670" y="463" width="520" height="26" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-124" value="新人动线A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="571" y="423" width="80" height="30" as="geometry" />
+          <mxGeometry x="589" y="423" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-125" value="新人动线B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="571" y="463" width="80" height="30" as="geometry" />
+          <mxGeometry x="589" y="462" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-126" value="游戏1&amp;nbsp; &amp;nbsp;—&amp;gt;&amp;nbsp; &amp;nbsp; 红包&amp;nbsp; &amp;nbsp; —&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;拉新商品&amp;nbsp; &amp;nbsp; —&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;任务1&amp;nbsp; &amp;nbsp; —&amp;gt;&amp;nbsp; &amp;nbsp; 奖励1&amp;nbsp; &amp;nbsp; —&amp;gt;&amp;nbsp; &amp;nbsp;退出干预1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="681.73" y="423" width="470" height="30" as="geometry" />
