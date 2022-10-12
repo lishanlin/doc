@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T07:37:39.214Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lXoUOBpQwjwtphs44Rbp" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T07:43:16.769Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="WjGBKTwwwUrbaC5RxUE1" version="20.4.0" type="github">
   <diagram id="0dBSCYIOzl0Dh5r4dUYV" name="Page-1">
     <mxGraphModel dx="1452" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,10 +205,10 @@
         <mxCell id="idBV6mfvMlumSGSyqYpo-95" value="新人用户中心&lt;br&gt;（新建设）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="745.5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-97" value="新人权益中心&lt;br&gt;（零散）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="idBV6mfvMlumSGSyqYpo-97" value="新人权益&amp;amp;商品中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="862.5" y="745.5" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-98" value="新人商品中心&lt;br&gt;（聚量）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="idBV6mfvMlumSGSyqYpo-98" value="新人触点管理中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="992" y="745.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-102" value="任务后台&lt;br&gt;万花筒，任务平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
