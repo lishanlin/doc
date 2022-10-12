@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T07:44:14.983Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="2c1PMHBkYwzRiw0xzA2W" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T07:51:20.873Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9I4n1G1_q13KQ1dojY2n" version="20.4.0" type="github">
   <diagram id="0dBSCYIOzl0Dh5r4dUYV" name="Page-1">
     <mxGraphModel dx="1452" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,21 +72,6 @@
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="561" y="394" width="640" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-26" value="玩游戏" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="581" y="420" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-27" value="发权益" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="716" y="420" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-28" value="做任务" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="845" y="420" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-29" value="领奖励" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="978" y="420" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="idBV6mfvMlumSGSyqYpo-31" value="......" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="439" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-32" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF3333;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -249,6 +234,24 @@
         </mxCell>
         <mxCell id="idBV6mfvMlumSGSyqYpo-121" value="用户中心：提供人群圈选，AB分流实验，设备-pin转换，用户分层，用户标签能力&lt;br&gt;智能化策略中心：根据用户实时行为，提供" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="121" y="1005" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-122" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="425" width="520" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-123" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="463" width="520" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-124" value="新人动线A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="571" y="423" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-125" value="新人动线B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="571" y="463" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-126" value="游戏1&amp;nbsp; &amp;nbsp;—&amp;gt;&amp;nbsp; &amp;nbsp; 红包&amp;nbsp; &amp;nbsp; —&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;拉新商品&amp;nbsp; &amp;nbsp; —&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;任务1&amp;nbsp; &amp;nbsp; —&amp;gt;&amp;nbsp; &amp;nbsp; 奖励1&amp;nbsp; &amp;nbsp; —&amp;gt;&amp;nbsp; &amp;nbsp;退出干预1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="681.73" y="423" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="idBV6mfvMlumSGSyqYpo-127" value="红包&amp;nbsp; &amp;nbsp;—&amp;gt;&amp;nbsp; &amp;nbsp; 新人礼包&amp;nbsp; &amp;nbsp; —&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;任务2&amp;nbsp; &amp;nbsp; —&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;游戏2&amp;nbsp; &amp;nbsp; —&amp;gt;&amp;nbsp; &amp;nbsp; 奖励2&amp;nbsp; &amp;nbsp; —&amp;gt;&amp;nbsp; &amp;nbsp;退出干预2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="461" width="470" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
