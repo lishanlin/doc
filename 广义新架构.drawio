@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T06:59:40.533Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="QcO3VJE1FqO8Ls7SysFx" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T03:44:53.985Z" agent="5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lNTcPwG_8INpTfJyieCy" version="20.4.0" type="github">
   <diagram id="NGOUyQb67xXnOp7km4ZF" name="第 1 页">
     <mxGraphModel dx="1234" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,9 +170,9 @@
           <mxGeometry x="1020" y="843" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D3NEguJZvvDGYoJXKgB4-47" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="731" y="667" width="389" height="143" as="geometry" />
+          <mxGeometry x="731" y="667" width="269" height="143" as="geometry" />
         </mxCell>
-        <mxCell id="D3NEguJZvvDGYoJXKgB4-48" value="活动后台&lt;br&gt;（万花筒）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D3NEguJZvvDGYoJXKgB4-48" value="活动&amp;amp;游戏中心&lt;br&gt;（万花筒）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="737.25" y="683" width="112.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D3NEguJZvvDGYoJXKgB4-49" value="&lt;span style=&quot;&quot;&gt;付费新人&amp;amp;线下转化中心&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -191,13 +191,7 @@
           <mxGeometry x="862.5" y="745.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D3NEguJZvvDGYoJXKgB4-54" value="触点管理中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="992" y="745.5" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="D3NEguJZvvDGYoJXKgB4-55" value="任务后台&lt;br&gt;万花筒，任务平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="861.25" y="683" width="115" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="D3NEguJZvvDGYoJXKgB4-56" value="游戏后台&lt;br&gt;（万花筒）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="988.75" y="683" width="122" height="40" as="geometry" />
+          <mxGeometry x="862.5" y="683" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="D3NEguJZvvDGYoJXKgB4-57" value="新用户动线编排（可AB实验，新建）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="612" width="640" height="40" as="geometry" />
